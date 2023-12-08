@@ -49,3 +49,27 @@ const multiply = arr.map(function(multi){
     return multi * 2
 })
 console.log(multiply)
+
+// Declare a variable x and assign it the value 5.
+const x5 = 5;
+// Declare a variable x and assign it the value 5. ==> Strings, Symbols, Numbers, Null, Undefined, Bollean, BYtes
+
+// Explain the difference between == and ===.   ===> == is equvivalent to the value of the variable and === is also equivalent to the variable value and also the datatype is the same.
+
+// Write an example of a ternary operator.
+let age = prompt('Enter your age')
+const canVote = age > 18 ? "You are eligible to vote" : "You are not eligible to vote"
+
+// Write a for loop that prints numbers 1 to 5.
+for(let i = 0; i<5; 1++){
+    console.log(i)
+}
+
+if(age > 18){
+    console.log("Please vote and claim your right to kick yourself")
+}else{
+    console.log("You are not eligible to kick yourself")
+}
+
+
+
