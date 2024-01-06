@@ -71,5 +71,14 @@ if(age > 18){
     console.log("You are not eligible to kick yourself")
 }
 
+// Define a function named multiply that takes two parameters and returns their product.
+let variable1 = prompt("enter a number for x")
+let x = parseInt(variable1)
+
+let variable2 = prompt("enter a number for y")
+let y = parseInt(variable2)
+const multiply1 = () => {
+ return x * y
+}
 
 
