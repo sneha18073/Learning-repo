@@ -77,6 +77,7 @@ let x = parseInt(variable1)
 
 let variable2 = prompt("enter a number for y")
 let y = parseInt(variable2)
+
 const multiply1 = () => {
  return x * y
 }
