@@ -24,6 +24,6 @@ else:
     print("They all have entered equal numbers")
 
 
-# Write a program to find out weather a student has passed or fail, if teh total percentage is above 
+# Write a program to find out weather a student has passed or fail, if the total percentage is above 
 # 40% and requires 33% in every subject .Assume three subjects and take marks as input from the user.
 
