@@ -1,1 +1,0 @@
-# More on oop and inheritance
